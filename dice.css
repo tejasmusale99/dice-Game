@@ -4,9 +4,10 @@ body{
 h1{
     text-align: center;
     color: rgb(34, 147, 113);
-    font-size: 55px;
-    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
     padding-top: 120px;
+    font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
 }
 .container{
     display: flex;
@@ -24,4 +25,9 @@ h1{
 }
 .img1{
     padding: 0px 40px;
+}
+footer{
+    text-align: center;
+    color: white;
+    font-size: 20px;
 }
